@@ -8,7 +8,7 @@ function Header() {
                 bgcolor: 'black'
             }}
         >
-
+            WeBet
         </Toolbar>
         </>
     );
